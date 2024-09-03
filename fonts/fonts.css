@@ -16,14 +16,14 @@
   font-display: swap;
 }
 
-.header{
+.header {
   font-size: 18px;
   font-weight: 400;
   font-family: Raleway, sans-serif;
   font-style: normal;
 }
 
-.header__address{
+.header__address {
   font-style: normal;
   
 }
@@ -35,18 +35,13 @@
 
 .cover__description-text {
   font-size: 22px;
+  font-weight: normal;
 }
 
 .bet-button {
   font-size: 22px;
-}
-
-.cover__description-text {
-  font-weight: normal;
-}
-.bet-button {
-  font-weight: normal;
   font-family: Raleway, sans-serif;
+  font-weight: normal;
 }
 
 .lots__heading {
